@@ -1,0 +1,18 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../DFT1.srcs/sources_1/new/DFT_e.vhd" \
+"../../../../DFT1.srcs/sources_1/new/DFT_a.vhd" \
+"../../../../DFT1.srcs/sources_1/new/DataReg_e.vhd" \
+"../../../../DFT1.srcs/sources_1/new/DataReg_a.vhd" \
+"../../../../DFT1.srcs/sources_1/new/FSM_e.vhd" \
+"../../../../DFT1.srcs/sources_1/new/FSM_a.vhd" \
+"../../../../DFT1.srcs/sources_1/new/InstrReg_e.vhd" \
+"../../../../DFT1.srcs/sources_1/new/InstrReg_a.vhd" \
+"../../../../DFT1.srcs/sources_1/new/coreDesign_e.vhd" \
+"../../../../DFT1.srcs/sources_1/new/coreDesign_a.vhd" \
+"../../../../DFT1.srcs/sources_1/new/tapc_e.vhd" \
+"../../../../DFT1.srcs/sources_1/new/tapc_a.vhd" \
+"../../../../DFT1.srcs/sim_1/new/tb_dut.vhd" \
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,17 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/DFT1/DFT1.srcs/sim_1/new/tb_dut.vhd,1721991759,vhdl,,,,tb_e,,,,,,,,
+C:/DFT1/DFT1.srcs/sources_1/new/DFT_a.vhd,1721983841,vhdl,,,,,,,,,,,,
+C:/DFT1/DFT1.srcs/sources_1/new/DFT_e.vhd,1721813016,vhdl,C:/DFT1/DFT1.srcs/sources_1/new/DFT_a.vhd,,,dft_e,,,,,,,,
+C:/DFT1/DFT1.srcs/sources_1/new/DataReg_a.vhd,1721829471,vhdl,,,,,,,,,,,,
+C:/DFT1/DFT1.srcs/sources_1/new/DataReg_e.vhd,1721853663,vhdl,C:/DFT1/DFT1.srcs/sources_1/new/DataReg_a.vhd,,,datareg_e,,,,,,,,
+C:/DFT1/DFT1.srcs/sources_1/new/FSM_a.vhd,1721832103,vhdl,,,,,,,,,,,,
+C:/DFT1/DFT1.srcs/sources_1/new/FSM_e.vhd,1721831260,vhdl,C:/DFT1/DFT1.srcs/sources_1/new/FSM_a.vhd,,,fsm_e,,,,,,,,
+C:/DFT1/DFT1.srcs/sources_1/new/InstrReg_a.vhd,1721991219,vhdl,,,,,,,,,,,,
+C:/DFT1/DFT1.srcs/sources_1/new/InstrReg_e.vhd,1721812005,vhdl,C:/DFT1/DFT1.srcs/sources_1/new/InstrReg_a.vhd,,,instrreg_e,,,,,,,,
+C:/DFT1/DFT1.srcs/sources_1/new/coreDesign_a.vhd,1721812428,vhdl,,,,,,,,,,,,
+C:/DFT1/DFT1.srcs/sources_1/new/coreDesign_e.vhd,1721812424,vhdl,C:/DFT1/DFT1.srcs/sources_1/new/coreDesign_a.vhd,,,coredesign_e,,,,,,,,
+C:/DFT1/DFT1.srcs/sources_1/new/tapc_a.vhd,1721831947,vhdl,,,,,,,,,,,,
+C:/DFT1/DFT1.srcs/sources_1/new/tapc_e.vhd,1721831467,vhdl,C:/DFT1/DFT1.srcs/sources_1/new/tapc_a.vhd,,,tapc_e,,,,,,,,
